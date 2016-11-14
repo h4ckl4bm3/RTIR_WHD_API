@@ -1,8 +1,9 @@
 <?php
-/**
+/*************************************************************************
  * PSAIntegrator v1.0.0
  * Copyright (C) 2016 Switzer Business Solutions, LLC and Stephen Switzer
-
+ * http://www.sbsroc.com  /  (585) 298-9420
+ *************************************************************************
     This file is part of PSAIntegrator.
 
     PSAIntegrator is free software: you can redistribute it and/or modify
@@ -17,9 +18,9 @@
 
     You should have received a copy of the GNU General Public License
     along with PSAIntegrator.  If not, see <http://www.gnu.org/licenses/>.
- *
+ *************************************************************************
  * Requires curl
- */
+ *************************************************************************/
 require_once 'RequestTracker.php';
 class PSAIntegratorBase
 {
